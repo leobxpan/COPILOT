@@ -1,7 +1,9 @@
 # COPILOT: Human-Environment Collision Prediction and Localization from Egocentric Videos
 Boxiao Pan, Bokui Shen*, Davis Rempe*, Despoina Paschalidou, Kaichun Mo, Yanchao Yang, Leonidas J. Guibas. (* equal contribution)
 
-ICCV 2023.
+ICCV 2023. 
+
+[[Website]](https://sites.google.com/stanford.edu/copilot) [[Arxiv]](https://arxiv.org/abs/2210.01781)
 
 ## Update
 * 10/03/2023: Released data files.
