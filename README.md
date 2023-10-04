@@ -9,7 +9,7 @@ International Conference on Computer Vision (ICCV), 2023.
 * 10/03/2023: Released data files.
 
 ## Synthetic Dataset
-We released our synthetic dataset (detailed in main paper Sec. 3.2 and supplement Sec. C.3) [here](https://drive.google.com/drive/folders/1YAHLZdjGOkswgMrjH092XcDRHxpH941p?usp=drive_link). The full dataset is split into 6 zips, each containing data files organized under scene names. After unzipping all, put all scene folders under a top-level folder. The file structure should look like:
+We released our synthetic dataset (detailed in main paper Sec. 3.2 and supplement Sec. C.3) [here](https://drive.google.com/drive/folders/1Lkhx3LffRk0H5iHEW1XwZ4N8hVM0447v?usp=sharing). The full dataset is split into 6 zips, each containing data files organized under scene names. After unzipping all, put all scene folders under a top-level folder. The file structure should look like:
 * copilot_dataset
   * 17DRP5sb8fy
     * BioMotionLab_NTroje_rub025_0027_jumping1_poses_457_frames_30_fps_b9346seq0
